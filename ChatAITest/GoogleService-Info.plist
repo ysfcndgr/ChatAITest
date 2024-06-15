@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBWfvXz9dQ65gp0Vxw47AqXt_AHED8WJyg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>396794772994</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Capstone-Project-Cem</string>
+	<key>PROJECT_ID</key>
+	<string>capstone-f9156</string>
+	<key>STORAGE_BUCKET</key>
+	<string>capstone-f9156.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:396794772994:ios:ca59fbdc47e6b158b7b11b</string>
+</dict>
+</plist>
